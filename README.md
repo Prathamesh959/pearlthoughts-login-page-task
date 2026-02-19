@@ -1,15 +1,26 @@
-# PearlThoughts Login Page
+# PearlThoughts Login Page Task
 
-Login page UI built using **Next.js** and **Tailwind CSS** as part of the PearlThoughts internship task.
+A responsive and modern **Login Page UI** built using **Next.js**, **TypeScript**, and **Tailwind CSS** as part of the **PearlThoughts internship task**.
 
-## Tech Stack
+---
 
-- Next.js
-- Tailwind CSS
+## ✨ Features
 
-## How to Run
+- Responsive login page UI
+- Mobile-first and desktop-friendly layout
+- Built with Next.js App Router
+- Styled using Tailwind CSS
+- TypeScript support
+- Clean and readable code structure
+- Ready for deployment on Vercel
 
-```bash
-npm install
-npm run dev
-```
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **React**
+
+---
