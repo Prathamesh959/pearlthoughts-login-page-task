@@ -8,9 +8,9 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --color-primary: #0EA5E9;
-  --color-primary-dark: #0284C7;
-  --color-accent: #06B6D4;
+  --color-primary: #0ea5e9;
+  --color-primary-dark: #0284c7;
+  --color-accent: #06b6d4;
   --font-sans: var(--font-dm-sans);
   --font-heading: var(--font-plus-jakarta);
 }

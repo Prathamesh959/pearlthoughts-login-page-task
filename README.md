@@ -24,3 +24,10 @@ A responsive and modern **Login Page UI** built using **Next.js**, **TypeScript*
 - **React**
 
 ---
+
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
+```
